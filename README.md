@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-(https://img.shields.io/appveyor/build/ac030540/create?style=plastic)
+<img scr="https://img.shields.io/appveyor/build/ac030540/create?style=plastic" />
 ## Available Scripts
 
 In the project directory, you can run:
